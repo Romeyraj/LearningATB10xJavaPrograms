@@ -1,6 +1,6 @@
 package Ex_02_Java_Basics;
 
-public class Lab024_PrintF {
+public class Lab024_0_PrintF {
     public static void main(String[] args) {
         int a =10;
         System.out.println(a);

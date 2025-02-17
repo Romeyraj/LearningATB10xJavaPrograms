@@ -1,6 +1,6 @@
 package Ex_02_Java_Basics;
 
-public class Printf_Assignment {
+public class Lab024_1_Printf_Assignment {
     public static void main(String[] args) {
         int a = 9;
         System.out.printf("9*1= %d", a);
@@ -24,4 +24,6 @@ public class Printf_Assignment {
         //Nine nines are eighty-one
         ///Nine tens are ninety
     }
+
+
 }
